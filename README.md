@@ -19,5 +19,5 @@ A hands-on defensive engineering lab designed to simulate a corporate enterprise
 
 ## 📅 Engineering & Progress Logs
 ### 🔹 [Week 1 Progress: Environment & Provisioning]
-* **Milestones:** (Pending)
-* **Technical Takeaway:** (Pending)
+* **Milestones:** Initialized public-facing documentation repository framework. Provisioned VirtualBox infrastructure and engineered an isolated virtual network (`CorpNet` - `10.0.2.0/24`) with DHCP explicitly disabled to enforce strict static engineering. Initiated downloads for enterprise OS evaluation images.
+* **Technical Takeaway:** Created the VirtualBox infrastructure, created an isolated Virtual Network, and then initiated downloads for OS evaluation images, making me ready for the following days in getting this virtual environmnent set up
