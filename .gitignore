@@ -1,0 +1,6 @@
+*.vdi
+*.vbox
+*.vbox-prev
+*.iso
+*.log
+.DS_Store
