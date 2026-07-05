@@ -1,2 +1,23 @@
-# Corporate-Ad-Wazuh-Lab
-An enterprise-grade virtualization lab featuring an Active Directory domain monitored by a centralized Wazuh EDR pipeline and Sysmon telemetry telemetry
+# Corporate Active Directory & Wazuh EDR Telemetry Lab
+
+## 📊 Project Overview
+A hands-on defensive engineering lab designed to simulate a corporate enterprise network, deploy centralized Endpoint Detection and Response (EDR) telemetry, and analyze endpoint security events.
+
+## 📐 Network Architecture & Topology
+*To be inserted: Network Diagram (Local Host -> Isolated NAT Subnet)*
+* **Domain Controller (DC-01):** Windows Server 2022 | `10.0.2.10`
+* **Workstation (WKSTN-01):** Windows 10/11 Enterprise | `10.0.2.15`
+* **EDR Manager (WAZUH-01):** Ubuntu Server 22.04 LTS | `10.0.2.20`
+
+## 🛡️ Core Capabilities Demonstrated
+* Enterprise Identity & Access Management (AD DS)
+* Endpoint Detection & Response (EDR) Fleet Management
+* Log Telemetry Aggregation & Parsing (Sysmon -> Wazuh)
+* Security Policy Hardening (Group Policy Objects)
+
+---
+
+## 📅 Engineering & Progress Logs
+### 🔹 [Week 1 Progress: Environment & Provisioning]
+* **Milestones:** (Pending)
+* **Technical Takeaway:** (Pending)
