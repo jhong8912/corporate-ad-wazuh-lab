@@ -4,7 +4,7 @@
 A hands-on defensive engineering lab designed to simulate a corporate enterprise network, deploy centralized Endpoint Detection and Response (EDR) telemetry, and analyze endpoint security events.
 
 ## 📐 Network Architecture & Topology
-*To be inserted: Network Diagram (Local Host -> Isolated NAT Subnet)*
+![Network Architecture Diagram](assets/Architectural Network Diagram.png)
 * **Domain Controller (DC-01):** Windows Server 2022 | `10.0.2.10`
 * **Workstation (WKSTN-01):** Windows 10/11 Enterprise | `10.0.2.15`
 * **EDR Manager (WAZUH-01):** Ubuntu Server 22.04 LTS | `10.0.2.20`
